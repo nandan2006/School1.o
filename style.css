@@ -1,0 +1,19 @@
+.header{
+   color: lightblue;
+    background-color: black;
+}
+.footer{
+    text-align-last: center;
+    background-color: lightblue;
+    color: whitesmoke;
+    display: flex;
+}
+
+.home{
+    background-color: lightblue;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 160%;
+   padding-left: 40%;
+    display: flex;
+}
