@@ -1,0 +1,25 @@
+.header{
+   color: lightblue;
+    background-color: black;
+}
+.footer{
+    text-align-last: center;
+    background-color: lightblue;
+    color: whitesmoke;
+    display: flex;
+}
+
+.home{
+    background-color: lightblue;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 160%;
+   padding-left: 40%;
+    display: flex;
+}
+#scroll{
+    position: fixed;
+}
+.nandan{
+    background-image: url(https://vrayschool.com/wp-content/uploads/2018/01/Fotolia_130414382_Subscription_Monthly_M.jpg)
+}
